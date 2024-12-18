@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1733960206 source:c:\users\alghi\onedrive\documents\kuliah\texteditor\dll.cpp
+	"dll.h"
+	<iostream>
+
+1733960206 c:\users\alghi\onedrive\documents\kuliah\texteditor\dll.h
+	<iostream>
+
+1734529421 source:c:\users\alghi\onedrive\documents\kuliah\texteditor\main.cpp
+	<iostream>
+	"dll.h"
+
